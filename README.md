@@ -11,5 +11,7 @@ Groundwater data for West Bengal is scattered across multiple sources, making it
 This project aims to consolidate groundwater datasets from authoritative sources into a unified analytical database and perform comprehensive analysis to answer key questions such as:
 
 > How have groundwater levels changed across different districts over time?
+
 > Which districts experience the highest groundwater depletion or recharge?
+
 > What seasonal patterns influence groundwater levels?
