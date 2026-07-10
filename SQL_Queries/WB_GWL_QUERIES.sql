@@ -79,7 +79,7 @@ ORDER BY District, Season;
     
 
  -- For Post-Monsoon season: does more rainfall mean shallower depth?
--- A strong negative relationship (high rain = low depth) means healthy recharge response
+-- (high rain = low depth) means healthy recharge response
 SELECT
     District,
     ROUND(AVG(Rainfall), 1)                                 AS avg_post_rainfall,
