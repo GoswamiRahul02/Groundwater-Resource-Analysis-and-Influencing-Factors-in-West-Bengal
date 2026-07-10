@@ -1,0 +1,337 @@
+Date,Year,District,Season,MeanDepth
+2000-06-01,2000,Bankura,Pre-Monsoon,10.62
+2000-06-01,2000,Bankura,Post-Monsoon,19.26
+2000-06-01,2000,Birbhum,Pre-Monsoon,15.98
+2000-06-01,2000,Birbhum,Post-Monsoon,13.98
+2000-06-01,2000,Jalpaiguri,Pre-Monsoon,7.34
+2000-06-01,2000,Jalpaiguri,Post-Monsoon,7.34
+2000-06-01,2000,Jhargram,Pre-Monsoon,5.87
+2000-06-01,2000,Jhargram,Post-Monsoon,17.99
+2000-06-01,2000,Murshidabad,Pre-Monsoon,14.02
+2000-06-01,2000,Murshidabad,Post-Monsoon,15.62
+2000-06-01,2000,Purba Bardhaman,Pre-Monsoon,5.31
+2000-06-01,2000,Purba Bardhaman,Post-Monsoon,19.55
+2000-06-01,2000,Purulia,Pre-Monsoon,17.49
+2000-06-01,2000,Purulia,Post-Monsoon,8.19
+2000-06-01,2000,West Medinipur,Pre-Monsoon,7.73
+2000-06-01,2000,West Medinipur,Post-Monsoon,7.75
+2001-06-01,2001,Bankura,Pre-Monsoon,9.56
+2001-06-01,2001,Bankura,Post-Monsoon,12.87
+2001-06-01,2001,Birbhum,Pre-Monsoon,11.48
+2001-06-01,2001,Birbhum,Post-Monsoon,9.37
+2001-06-01,2001,Jalpaiguri,Pre-Monsoon,14.18
+2001-06-01,2001,Jalpaiguri,Post-Monsoon,7.09
+2001-06-01,2001,Jhargram,Pre-Monsoon,9.38
+2001-06-01,2001,Jhargram,Post-Monsoon,10.5
+2001-06-01,2001,Murshidabad,Pre-Monsoon,11.84
+2001-06-01,2001,Murshidabad,Post-Monsoon,16.78
+2001-06-01,2001,Purba Bardhaman,Pre-Monsoon,8
+2001-06-01,2001,Purba Bardhaman,Post-Monsoon,12.71
+2001-06-01,2001,Purulia,Pre-Monsoon,13.89
+2001-06-01,2001,Purulia,Post-Monsoon,5.7
+2001-06-01,2001,West Medinipur,Pre-Monsoon,14.11
+2001-06-01,2001,West Medinipur,Post-Monsoon,7.56
+2002-06-01,2002,Bankura,Pre-Monsoon,5.98
+2002-06-01,2002,Bankura,Post-Monsoon,19.23
+2002-06-01,2002,Birbhum,Pre-Monsoon,19.48
+2002-06-01,2002,Birbhum,Post-Monsoon,17.13
+2002-06-01,2002,Jalpaiguri,Pre-Monsoon,9.57
+2002-06-01,2002,Jalpaiguri,Post-Monsoon,6.47
+2002-06-01,2002,Jhargram,Pre-Monsoon,15.26
+2002-06-01,2002,Jhargram,Post-Monsoon,11.6
+2002-06-01,2002,Murshidabad,Pre-Monsoon,6.83
+2002-06-01,2002,Murshidabad,Post-Monsoon,12.43
+2002-06-01,2002,Purba Bardhaman,Pre-Monsoon,5.52
+2002-06-01,2002,Purba Bardhaman,Post-Monsoon,18.64
+2002-06-01,2002,Purulia,Pre-Monsoon,8.88
+2002-06-01,2002,Purulia,Post-Monsoon,14.94
+2002-06-01,2002,West Medinipur,Pre-Monsoon,9.68
+2002-06-01,2002,West Medinipur,Post-Monsoon,12.8
+2003-06-01,2003,Bankura,Pre-Monsoon,13.2
+2003-06-01,2003,Bankura,Post-Monsoon,7.77
+2003-06-01,2003,Birbhum,Pre-Monsoon,19.54
+2003-06-01,2003,Birbhum,Post-Monsoon,16.63
+2003-06-01,2003,Jalpaiguri,Pre-Monsoon,19.09
+2003-06-01,2003,Jalpaiguri,Post-Monsoon,18.42
+2003-06-01,2003,Jhargram,Pre-Monsoon,13.97
+2003-06-01,2003,Jhargram,Post-Monsoon,18.83
+2003-06-01,2003,Murshidabad,Pre-Monsoon,6.33
+2003-06-01,2003,Murshidabad,Post-Monsoon,7.94
+2003-06-01,2003,Purba Bardhaman,Pre-Monsoon,5.68
+2003-06-01,2003,Purba Bardhaman,Post-Monsoon,9.88
+2003-06-01,2003,Purulia,Pre-Monsoon,10.83
+2003-06-01,2003,Purulia,Post-Monsoon,9.07
+2003-06-01,2003,West Medinipur,Pre-Monsoon,17.43
+2003-06-01,2003,West Medinipur,Post-Monsoon,10.35
+2004-06-01,2004,Bankura,Pre-Monsoon,9.21
+2004-06-01,2004,Bankura,Post-Monsoon,13.14
+2004-06-01,2004,Birbhum,Pre-Monsoon,7.11
+2004-06-01,2004,Birbhum,Post-Monsoon,17.03
+2004-06-01,2004,Jalpaiguri,Pre-Monsoon,6.12
+2004-06-01,2004,Jalpaiguri,Post-Monsoon,19.8
+2004-06-01,2004,Jhargram,Pre-Monsoon,16.58
+2004-06-01,2004,Jhargram,Post-Monsoon,7.98
+2004-06-01,2004,Murshidabad,Pre-Monsoon,5.08
+2004-06-01,2004,Murshidabad,Post-Monsoon,17.23
+2004-06-01,2004,Purba Bardhaman,Pre-Monsoon,15.6
+2004-06-01,2004,Purba Bardhaman,Post-Monsoon,15.94
+2004-06-01,2004,Purulia,Pre-Monsoon,16.57
+2004-06-01,2004,Purulia,Post-Monsoon,6.11
+2004-06-01,2004,West Medinipur,Pre-Monsoon,10.38
+2004-06-01,2004,West Medinipur,Post-Monsoon,6.74
+2005-06-01,2005,Bankura,Pre-Monsoon,17.95
+2005-06-01,2005,Bankura,Post-Monsoon,14.35
+2005-06-01,2005,Birbhum,Pre-Monsoon,9.96
+2005-06-01,2005,Birbhum,Post-Monsoon,5.95
+2005-06-01,2005,Jalpaiguri,Pre-Monsoon,9.66
+2005-06-01,2005,Jalpaiguri,Post-Monsoon,9.88
+2005-06-01,2005,Jhargram,Pre-Monsoon,15.94
+2005-06-01,2005,Jhargram,Post-Monsoon,14.56
+2005-06-01,2005,Murshidabad,Pre-Monsoon,18.31
+2005-06-01,2005,Murshidabad,Post-Monsoon,12.08
+2005-06-01,2005,Purba Bardhaman,Pre-Monsoon,6.79
+2005-06-01,2005,Purba Bardhaman,Post-Monsoon,15.7
+2005-06-01,2005,Purulia,Pre-Monsoon,16.41
+2005-06-01,2005,Purulia,Post-Monsoon,13.42
+2005-06-01,2005,West Medinipur,Pre-Monsoon,16.56
+2005-06-01,2005,West Medinipur,Post-Monsoon,12.41
+2006-06-01,2006,Bankura,Pre-Monsoon,12.84
+2006-06-01,2006,Bankura,Post-Monsoon,11.41
+2006-06-01,2006,Birbhum,Pre-Monsoon,5.38
+2006-06-01,2006,Birbhum,Post-Monsoon,6.62
+2006-06-01,2006,Jalpaiguri,Pre-Monsoon,5.47
+2006-06-01,2006,Jalpaiguri,Post-Monsoon,14.55
+2006-06-01,2006,Jhargram,Pre-Monsoon,9.72
+2006-06-01,2006,Jhargram,Post-Monsoon,12.63
+2006-06-01,2006,Murshidabad,Pre-Monsoon,18.61
+2006-06-01,2006,Murshidabad,Post-Monsoon,8.74
+2006-06-01,2006,Purba Bardhaman,Pre-Monsoon,11.16
+2006-06-01,2006,Purba Bardhaman,Post-Monsoon,16.33
+2006-06-01,2006,Purulia,Pre-Monsoon,8.43
+2006-06-01,2006,Purulia,Post-Monsoon,6.15
+2006-06-01,2006,West Medinipur,Pre-Monsoon,9.35
+2006-06-01,2006,West Medinipur,Post-Monsoon,7.42
+2007-06-01,2007,Bankura,Pre-Monsoon,18.95
+2007-06-01,2007,Bankura,Post-Monsoon,17.12
+2007-06-01,2007,Birbhum,Pre-Monsoon,14.5
+2007-06-01,2007,Birbhum,Post-Monsoon,18.07
+2007-06-01,2007,Jalpaiguri,Pre-Monsoon,17.06
+2007-06-01,2007,Jalpaiguri,Post-Monsoon,7.8
+2007-06-01,2007,Jhargram,Pre-Monsoon,18.39
+2007-06-01,2007,Jhargram,Post-Monsoon,13.09
+2007-06-01,2007,Murshidabad,Pre-Monsoon,17.11
+2007-06-01,2007,Murshidabad,Post-Monsoon,18.44
+2007-06-01,2007,Purba Bardhaman,Pre-Monsoon,9.77
+2007-06-01,2007,Purba Bardhaman,Post-Monsoon,6.65
+2007-06-01,2007,Purulia,Pre-Monsoon,8.42
+2007-06-01,2007,Purulia,Post-Monsoon,11.41
+2007-06-01,2007,West Medinipur,Pre-Monsoon,17.27
+2007-06-01,2007,West Medinipur,Post-Monsoon,17.91
+2008-06-01,2008,Bankura,Pre-Monsoon,5.1
+2008-06-01,2008,Bankura,Post-Monsoon,12.66
+2008-06-01,2008,Birbhum,Pre-Monsoon,11.26
+2008-06-01,2008,Birbhum,Post-Monsoon,8.33
+2008-06-01,2008,Jalpaiguri,Pre-Monsoon,6.8
+2008-06-01,2008,Jalpaiguri,Post-Monsoon,10.06
+2008-06-01,2008,Jhargram,Pre-Monsoon,19.14
+2008-06-01,2008,Jhargram,Post-Monsoon,9.85
+2008-06-01,2008,Murshidabad,Pre-Monsoon,12.78
+2008-06-01,2008,Murshidabad,Post-Monsoon,15.55
+2008-06-01,2008,Purba Bardhaman,Pre-Monsoon,10.45
+2008-06-01,2008,Purba Bardhaman,Post-Monsoon,19.58
+2008-06-01,2008,Purulia,Pre-Monsoon,19.44
+2008-06-01,2008,Purulia,Post-Monsoon,8.78
+2008-06-01,2008,West Medinipur,Pre-Monsoon,12.46
+2008-06-01,2008,West Medinipur,Post-Monsoon,9.51
+2009-06-01,2009,Bankura,Pre-Monsoon,9.27
+2009-06-01,2009,Bankura,Post-Monsoon,5.55
+2009-06-01,2009,Birbhum,Pre-Monsoon,14.14
+2009-06-01,2009,Birbhum,Post-Monsoon,12.54
+2009-06-01,2009,Jalpaiguri,Pre-Monsoon,5.77
+2009-06-01,2009,Jalpaiguri,Post-Monsoon,9.18
+2009-06-01,2009,Jhargram,Pre-Monsoon,18.62
+2009-06-01,2009,Jhargram,Post-Monsoon,8.59
+2009-06-01,2009,Murshidabad,Pre-Monsoon,7.17
+2009-06-01,2009,Murshidabad,Post-Monsoon,12.34
+2009-06-01,2009,Purba Bardhaman,Pre-Monsoon,19.78
+2009-06-01,2009,Purba Bardhaman,Post-Monsoon,8.63
+2009-06-01,2009,Purulia,Pre-Monsoon,15.08
+2009-06-01,2009,Purulia,Post-Monsoon,16.42
+2009-06-01,2009,West Medinipur,Pre-Monsoon,8.56
+2009-06-01,2009,West Medinipur,Post-Monsoon,15.92
+2010-06-01,2010,Bankura,Pre-Monsoon,10.52
+2010-06-01,2010,Bankura,Post-Monsoon,14.48
+2010-06-01,2010,Birbhum,Pre-Monsoon,14.5
+2010-06-01,2010,Birbhum,Post-Monsoon,13.04
+2010-06-01,2010,Jalpaiguri,Pre-Monsoon,6.35
+2010-06-01,2010,Jalpaiguri,Post-Monsoon,17.53
+2010-06-01,2010,Jhargram,Pre-Monsoon,9.81
+2010-06-01,2010,Jhargram,Post-Monsoon,7.8
+2010-06-01,2010,Murshidabad,Pre-Monsoon,5.61
+2010-06-01,2010,Murshidabad,Post-Monsoon,13.86
+2010-06-01,2010,Purba Bardhaman,Pre-Monsoon,15.16
+2010-06-01,2010,Purba Bardhaman,Post-Monsoon,5.25
+2010-06-01,2010,Purulia,Pre-Monsoon,12.68
+2010-06-01,2010,Purulia,Post-Monsoon,8.4
+2010-06-01,2010,West Medinipur,Pre-Monsoon,14.68
+2010-06-01,2010,West Medinipur,Post-Monsoon,7.62
+2011-06-01,2011,Bankura,Pre-Monsoon,15.36
+2011-06-01,2011,Bankura,Post-Monsoon,10.8
+2011-06-01,2011,Birbhum,Pre-Monsoon,19.05
+2011-06-01,2011,Birbhum,Post-Monsoon,7.06
+2011-06-01,2011,Jalpaiguri,Pre-Monsoon,10.12
+2011-06-01,2011,Jalpaiguri,Post-Monsoon,6.7
+2011-06-01,2011,Jhargram,Pre-Monsoon,18.87
+2011-06-01,2011,Jhargram,Post-Monsoon,18.16
+2011-06-01,2011,Murshidabad,Pre-Monsoon,8.87
+2011-06-01,2011,Murshidabad,Post-Monsoon,14.9
+2011-06-01,2011,Purba Bardhaman,Pre-Monsoon,17.26
+2011-06-01,2011,Purba Bardhaman,Post-Monsoon,13.33
+2011-06-01,2011,Purulia,Pre-Monsoon,12.94
+2011-06-01,2011,Purulia,Post-Monsoon,8.63
+2011-06-01,2011,West Medinipur,Pre-Monsoon,6.4
+2011-06-01,2011,West Medinipur,Post-Monsoon,18.46
+2012-06-01,2012,Bankura,Pre-Monsoon,18.51
+2012-06-01,2012,Bankura,Post-Monsoon,14.5
+2012-06-01,2012,Birbhum,Pre-Monsoon,10.09
+2012-06-01,2012,Birbhum,Post-Monsoon,10.24
+2012-06-01,2012,Jalpaiguri,Pre-Monsoon,15.89
+2012-06-01,2012,Jalpaiguri,Post-Monsoon,18.46
+2012-06-01,2012,Jhargram,Pre-Monsoon,18.31
+2012-06-01,2012,Jhargram,Post-Monsoon,16.7
+2012-06-01,2012,Murshidabad,Pre-Monsoon,14.63
+2012-06-01,2012,Murshidabad,Post-Monsoon,6.26
+2012-06-01,2012,Purba Bardhaman,Pre-Monsoon,7.42
+2012-06-01,2012,Purba Bardhaman,Post-Monsoon,18.48
+2012-06-01,2012,Purulia,Pre-Monsoon,14.1
+2012-06-01,2012,Purulia,Post-Monsoon,5.14
+2012-06-01,2012,West Medinipur,Pre-Monsoon,6.52
+2012-06-01,2012,West Medinipur,Post-Monsoon,14.95
+2013-06-01,2013,Bankura,Pre-Monsoon,5.08
+2013-06-01,2013,Bankura,Post-Monsoon,7.41
+2013-06-01,2013,Birbhum,Pre-Monsoon,13.23
+2013-06-01,2013,Birbhum,Post-Monsoon,15.38
+2013-06-01,2013,Jalpaiguri,Pre-Monsoon,14.78
+2013-06-01,2013,Jalpaiguri,Post-Monsoon,8.36
+2013-06-01,2013,Jhargram,Pre-Monsoon,15.68
+2013-06-01,2013,Jhargram,Post-Monsoon,8.56
+2013-06-01,2013,Murshidabad,Pre-Monsoon,9.88
+2013-06-01,2013,Murshidabad,Post-Monsoon,16.2
+2013-06-01,2013,Purba Bardhaman,Pre-Monsoon,14.74
+2013-06-01,2013,Purba Bardhaman,Post-Monsoon,17.74
+2013-06-01,2013,Purulia,Pre-Monsoon,14.86
+2013-06-01,2013,Purulia,Post-Monsoon,13.52
+2013-06-01,2013,West Medinipur,Pre-Monsoon,6.41
+2013-06-01,2013,West Medinipur,Post-Monsoon,10.52
+2014-06-01,2014,Bankura,Pre-Monsoon,8.98
+2014-06-01,2014,Bankura,Post-Monsoon,8.66
+2014-06-01,2014,Birbhum,Pre-Monsoon,19.6
+2014-06-01,2014,Birbhum,Post-Monsoon,10.9
+2014-06-01,2014,Jalpaiguri,Pre-Monsoon,18.38
+2014-06-01,2014,Jalpaiguri,Post-Monsoon,14.47
+2014-06-01,2014,Jhargram,Pre-Monsoon,16.92
+2014-06-01,2014,Jhargram,Post-Monsoon,12.54
+2014-06-01,2014,Murshidabad,Pre-Monsoon,13.65
+2014-06-01,2014,Murshidabad,Post-Monsoon,12.39
+2014-06-01,2014,Purba Bardhaman,Pre-Monsoon,7.93
+2014-06-01,2014,Purba Bardhaman,Post-Monsoon,15.84
+2014-06-01,2014,Purulia,Pre-Monsoon,9.21
+2014-06-01,2014,Purulia,Post-Monsoon,5.36
+2014-06-01,2014,West Medinipur,Pre-Monsoon,14.68
+2014-06-01,2014,West Medinipur,Post-Monsoon,7.66
+2015-06-01,2015,Bankura,Pre-Monsoon,19.11
+2015-06-01,2015,Bankura,Post-Monsoon,19.31
+2015-06-01,2015,Birbhum,Pre-Monsoon,18.72
+2015-06-01,2015,Birbhum,Post-Monsoon,10.55
+2015-06-01,2015,Jalpaiguri,Pre-Monsoon,5.23
+2015-06-01,2015,Jalpaiguri,Post-Monsoon,18.92
+2015-06-01,2015,Jhargram,Pre-Monsoon,11.42
+2015-06-01,2015,Jhargram,Post-Monsoon,19.5
+2015-06-01,2015,Murshidabad,Pre-Monsoon,19.45
+2015-06-01,2015,Murshidabad,Post-Monsoon,17.8
+2015-06-01,2015,Purba Bardhaman,Pre-Monsoon,9.42
+2015-06-01,2015,Purba Bardhaman,Post-Monsoon,10.78
+2015-06-01,2015,Purulia,Pre-Monsoon,17.77
+2015-06-01,2015,Purulia,Post-Monsoon,9.75
+2015-06-01,2015,West Medinipur,Pre-Monsoon,7.54
+2015-06-01,2015,West Medinipur,Post-Monsoon,13.35
+2016-06-01,2016,Bankura,Pre-Monsoon,19.04
+2016-06-01,2016,Bankura,Post-Monsoon,15.44
+2016-06-01,2016,Birbhum,Pre-Monsoon,13.55
+2016-06-01,2016,Birbhum,Post-Monsoon,6.46
+2016-06-01,2016,Jalpaiguri,Pre-Monsoon,14.23
+2016-06-01,2016,Jalpaiguri,Post-Monsoon,19.85
+2016-06-01,2016,Jhargram,Pre-Monsoon,7.1
+2016-06-01,2016,Jhargram,Post-Monsoon,12.77
+2016-06-01,2016,Murshidabad,Pre-Monsoon,18.16
+2016-06-01,2016,Murshidabad,Post-Monsoon,16.11
+2016-06-01,2016,Purba Bardhaman,Pre-Monsoon,15.46
+2016-06-01,2016,Purba Bardhaman,Post-Monsoon,15.54
+2016-06-01,2016,Purulia,Pre-Monsoon,10.39
+2016-06-01,2016,Purulia,Post-Monsoon,9.4
+2016-06-01,2016,West Medinipur,Pre-Monsoon,17.14
+2016-06-01,2016,West Medinipur,Post-Monsoon,17.15
+2017-06-01,2017,Bankura,Pre-Monsoon,18.01
+2017-06-01,2017,Bankura,Post-Monsoon,18.7
+2017-06-01,2017,Birbhum,Pre-Monsoon,12.67
+2017-06-01,2017,Birbhum,Post-Monsoon,12.52
+2017-06-01,2017,Jalpaiguri,Pre-Monsoon,16.97
+2017-06-01,2017,Jalpaiguri,Post-Monsoon,14.75
+2017-06-01,2017,Jhargram,Pre-Monsoon,15.53
+2017-06-01,2017,Jhargram,Post-Monsoon,16.94
+2017-06-01,2017,Murshidabad,Pre-Monsoon,18.35
+2017-06-01,2017,Murshidabad,Post-Monsoon,10.07
+2017-06-01,2017,Purba Bardhaman,Pre-Monsoon,10.63
+2017-06-01,2017,Purba Bardhaman,Post-Monsoon,6.41
+2017-06-01,2017,Purulia,Pre-Monsoon,13.67
+2017-06-01,2017,Purulia,Post-Monsoon,5.54
+2017-06-01,2017,West Medinipur,Pre-Monsoon,11.98
+2017-06-01,2017,West Medinipur,Post-Monsoon,13.14
+2018-06-01,2018,Bankura,Pre-Monsoon,9.3
+2018-06-01,2018,Bankura,Post-Monsoon,13.86
+2018-06-01,2018,Birbhum,Pre-Monsoon,5.46
+2018-06-01,2018,Birbhum,Post-Monsoon,5.56
+2018-06-01,2018,Jalpaiguri,Pre-Monsoon,17.34
+2018-06-01,2018,Jalpaiguri,Post-Monsoon,10.4
+2018-06-01,2018,Jhargram,Pre-Monsoon,6.91
+2018-06-01,2018,Jhargram,Post-Monsoon,12.83
+2018-06-01,2018,Murshidabad,Pre-Monsoon,16.55
+2018-06-01,2018,Murshidabad,Post-Monsoon,8.24
+2018-06-01,2018,Purba Bardhaman,Pre-Monsoon,14.34
+2018-06-01,2018,Purba Bardhaman,Post-Monsoon,6.28
+2018-06-01,2018,Purulia,Pre-Monsoon,5.78
+2018-06-01,2018,Purulia,Post-Monsoon,12.97
+2018-06-01,2018,West Medinipur,Pre-Monsoon,13.11
+2018-06-01,2018,West Medinipur,Post-Monsoon,14.56
+2019-06-01,2019,Bankura,Pre-Monsoon,15.89
+2019-06-01,2019,Bankura,Post-Monsoon,19.64
+2019-06-01,2019,Birbhum,Pre-Monsoon,12.74
+2019-06-01,2019,Birbhum,Post-Monsoon,9.84
+2019-06-01,2019,Jalpaiguri,Pre-Monsoon,16.93
+2019-06-01,2019,Jalpaiguri,Post-Monsoon,9.06
+2019-06-01,2019,Jhargram,Pre-Monsoon,11.58
+2019-06-01,2019,Jhargram,Post-Monsoon,6.18
+2019-06-01,2019,Murshidabad,Pre-Monsoon,5.38
+2019-06-01,2019,Murshidabad,Post-Monsoon,19.44
+2019-06-01,2019,Purba Bardhaman,Pre-Monsoon,17.54
+2019-06-01,2019,Purba Bardhaman,Post-Monsoon,15.44
+2019-06-01,2019,Purulia,Pre-Monsoon,11.13
+2019-06-01,2019,Purulia,Post-Monsoon,7.6
+2019-06-01,2019,West Medinipur,Pre-Monsoon,7.35
+2019-06-01,2019,West Medinipur,Post-Monsoon,8.75
+2020-06-01,2020,Bankura,Pre-Monsoon,13.24
+2020-06-01,2020,Bankura,Post-Monsoon,15.72
+2020-06-01,2020,Birbhum,Pre-Monsoon,14.9
+2020-06-01,2020,Birbhum,Post-Monsoon,9.2
+2020-06-01,2020,Jalpaiguri,Pre-Monsoon,19.32
+2020-06-01,2020,Jalpaiguri,Post-Monsoon,16.07
+2020-06-01,2020,Jhargram,Pre-Monsoon,13.32
+2020-06-01,2020,Jhargram,Post-Monsoon,14.18
+2020-06-01,2020,Murshidabad,Pre-Monsoon,11.29
+2020-06-01,2020,Murshidabad,Post-Monsoon,8.72
+2020-06-01,2020,Purba Bardhaman,Pre-Monsoon,10.34
+2020-06-01,2020,Purba Bardhaman,Post-Monsoon,16.37
+2020-06-01,2020,Purulia,Pre-Monsoon,5.22
+2020-06-01,2020,Purulia,Post-Monsoon,6.74
+2020-06-01,2020,West Medinipur,Pre-Monsoon,5.69
+2020-06-01,2020,West Medinipur,Post-Monsoon,5.61
