@@ -2,8 +2,5 @@
 # MySQL | Power BI | Microsoft Excel
 
 # Project Overview
-Developed an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using environmental and hydrological datasets collected from multiple authoritative sources. Performed data acquisition, integration, and preprocessing by consolidating datasets into a unified analytical database.
+This Project is a part of my Data analytics portfolio.The goal of this project was to Develop an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using data from authoritative sources. Consolidated and preprocessed multiple datasets into a unified MySQL database, performed SQL-based trend and seasonal analysis, and applied data transformation techniques to improve data quality and generate actionable insights through interactive reporting.
 
-Designed and optimized SQL queries in MySQL to conduct trend analysis, identify seasonal and district-wise groundwater variations, and extract actionable insights from large datasets. Implemented data transformation and exploratory analysis techniques to improve data quality and support accurate reporting.
-
-Building an interactive Power BI dashboard featuring dynamic filters, trend visualizations, KPI metrics, and geographical insights, enabling stakeholders to monitor groundwater patterns and assess regional variations effectively
