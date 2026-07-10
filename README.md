@@ -1,4 +1,4 @@
-# Groundwater-Resource-Analysis-and-Influencing-Factors-in-West-Bengal
+# Groundwater Resource Analysis and Influencing Factors in West Bengal
 
 Developed an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using environmental and hydrological datasets collected from multiple authoritative sources. Performed data acquisition, integration, and preprocessing by consolidating datasets into a unified analytical database.
 
