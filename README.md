@@ -38,5 +38,18 @@ This project aims to consolidate groundwater datasets from authoritative sources
 <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/4198ee93-9d9c-47ef-9bc7-09c991a29103" />
 
 
+# Visualization & Dashboard Features: Detailed Overview
+Interective Map - Mean depth, Rainfall distribution across West Bengal districts, shown geographically and explorable with a click.
+KPI Cards - KPI cards for total districts, Years covered, and mean depth average level.
+Filters - The dashboard includes drill-down filters for District, Season, and Date.
+Dual Bar Chart — Mean Depth vs Rainfall Comparison.
+Clustered Bar Chart — Ground Water depth changes across seasons and districts.
+Circle Chart – Represented Avg Rainfall and Mean Depth Relationship using Trend Line.
+Stacked Bar Chart — Represented Land use using Various drivers such as Builtup, Waterbody, Forest, and Other LULC.
+Calculated Table – Decade wise mean depth comparison (district wise).
+
+
+
+
 
 
