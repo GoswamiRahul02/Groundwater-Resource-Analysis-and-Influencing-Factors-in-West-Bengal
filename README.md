@@ -30,3 +30,8 @@ This project aims to consolidate groundwater datasets from authoritative sources
 3. Analyze seasonal, district-wise, and long-term groundwater trends using MySQL.
 4. Developed an interactive Tableau dashboard to visualize key groundwater metrics and insights.
 5. Enable data-driven decision-making for sustainable groundwater resource management through meaningful analytics and reporting
+
+
+# Tools & Technologies Used
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9c1dd294-e0ff-4b37-9445-b12d040a2b0c" />
+
