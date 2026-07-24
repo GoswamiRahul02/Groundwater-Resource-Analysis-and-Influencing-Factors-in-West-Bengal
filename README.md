@@ -41,7 +41,7 @@ This project aims to consolidate groundwater datasets from authoritative sources
 <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/4198ee93-9d9c-47ef-9bc7-09c991a29103" />
 
 
-# Visualization & Dashboard Features: Detailed Overview
+# 📊 Visualization & Dashboard Features: Detailed Overview
 1. Interective Map - Mean depth, Rainfall distribution across West Bengal districts, shown geographically and explorable with a click.
 2. KPI Cards - KPI cards for total districts, Years covered, and mean depth average level.
 3. Filters - The dashboard includes drill-down filters for District, Season, and Date.
