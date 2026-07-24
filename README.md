@@ -9,8 +9,8 @@ This Project is a part of my Data analytics portfolio.The goal of this project w
 
 <img width="1907" height="1015" alt="Screenshot 2026-07-23 205057" src="https://github.com/user-attachments/assets/bdc78e75-085d-460d-b2a1-4a5e20e393f5" />
 
-# Live Dashboard Link - https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/c1b3351c-10bc-4f15-a5d4-6614dac02693" />
-
+# Live Dashboard Link
+https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="3089" height="80" alt="image" src="https://github.com/user-attachments/assets/85bc0552-805e-4c5c-b96f-e091fde80394" />
 
 
 # Problem Statement
