@@ -1,7 +1,7 @@
 # Groundwater Resource Analysis and Influencing Factors in West Bengal 
 # Tech Stack - MySQL | Tableau | Microsoft Excel
 
-# Project Overview
+# 📋 Project Overview
 This Project is a part of my Data analytics portfolio.The goal of this project was to Develop an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using data from authoritative sources. Consolidated and preprocessed multiple datasets into a unified MySQL database, performed SQL-based trend and seasonal analysis, and applied data transformation techniques to improve data quality and generate actionable insights through interactive reporting.
 
 
@@ -9,11 +9,11 @@ This Project is a part of my Data analytics portfolio.The goal of this project w
 
 <img width="1907" height="1015" alt="Screenshot 2026-07-23 205057" src="https://github.com/user-attachments/assets/bdc78e75-085d-460d-b2a1-4a5e20e393f5" />
 
-# Live Dashboard Link
+# 📈 Live Dashboard Link
 * https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-# Problem Statement
+# 🔍 Problem Statement
 Groundwater data for West Bengal is scattered across multiple sources, making it challenging to analyze long-term trends and regional variations. This project integrates environmental datasets into a centralized database and analyzes seasonal and district-wise groundwater levels to generate actionable insights through SQL queries and interactive Tableau dashboards, enabling data-driven water resource management.
 
 This project aims to consolidate groundwater datasets from authoritative sources into a unified analytical database and perform comprehensive analysis to answer key questions such as:
@@ -35,7 +35,7 @@ This project aims to consolidate groundwater datasets from authoritative sources
 5. Enable data-driven decision-making for sustainable groundwater resource management through meaningful analytics and reporting
 
 
-# Tools & Technologies Used
+# ⚡Tools & Technologies Used
 <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/9c1dd294-e0ff-4b37-9445-b12d040a2b0c" />
 <img width="170" height="110" alt="image" src="https://github.com/user-attachments/assets/8b43c614-d325-4d3e-8767-5dd867ec379e" />
 <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/4198ee93-9d9c-47ef-9bc7-09c991a29103" />
