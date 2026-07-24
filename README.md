@@ -9,6 +9,9 @@ This Project is a part of my Data analytics portfolio.The goal of this project w
 
 <img width="1907" height="1015" alt="Screenshot 2026-07-23 205057" src="https://github.com/user-attachments/assets/bdc78e75-085d-460d-b2a1-4a5e20e393f5" />
 
+# Live Dashboard Link - https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link<img width="3089" height="80" alt="image" src="https://github.com/user-attachments/assets/c1b3351c-10bc-4f15-a5d4-6614dac02693" />
+
+
 
 # Problem Statement
 Groundwater data for West Bengal is scattered across multiple sources, making it challenging to analyze long-term trends and regional variations. This project integrates environmental datasets into a centralized database and analyzes seasonal and district-wise groundwater levels to generate actionable insights through SQL queries and interactive Tableau dashboards, enabling data-driven water resource management.
