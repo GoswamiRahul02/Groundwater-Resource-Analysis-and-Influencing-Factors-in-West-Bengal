@@ -52,7 +52,7 @@ This project aims to consolidate groundwater datasets from authoritative sources
 8. Calculated Table – Decade wise mean depth comparison (district wise).
 
 
-# Results & Findings
+# 💡 Results & Findings
 * The analysis shows clear variation in groundwater MeanDepth across districts, years, and seasons. In general, pre-monsoon values are higher than post-monsoon values, which suggests greater groundwater stress before the rains recharge the system.
 * Districts such as Purulia, Bankura, Birbhum, and West Medinipur repeatedly show higher MeanDepth values, indicating deeper groundwater levels and more vulnerability. In contrast, districts such as Kolkata, Howrah, North 24 Parganas, and South 24 Parganas tend to show lower MeanDepth values, especially in post-monsoon periods.
 
@@ -60,5 +60,9 @@ This project aims to consolidate groundwater datasets from authoritative sources
 * A second finding is that groundwater stress is not evenly distributed across West Bengal. Western districts appear more vulnerable than the eastern and coastal districts, making them important priority areas for monitoring and planning.
 
 
+# 🚀 Conclusion
+This project clearly shows that groundwater depth in West Bengal varies significantly across districts, seasons, and years. The analysis reveals that some districts experience consistently deeper groundwater levels, especially during the pre-monsoon period, indicating greater water stress and a higher need for careful management.
+
+This project also highlights that groundwater conditions are not uniform across the state. Western districts such as Purulia, Bankura, Birbhum, and West Medinipur appear more vulnerable, while districts in the eastern and coastal regions generally show relatively lower depth values. This pattern suggests that groundwater stress is influenced by both location and seasonal rainfall variation<img width="9748" height="249" alt="image" src="https://github.com/user-attachments/assets/39e52001-c3b1-4d74-b76f-5833d2649312" />
 
 
