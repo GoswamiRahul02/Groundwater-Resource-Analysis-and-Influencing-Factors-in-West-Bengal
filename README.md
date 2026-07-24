@@ -33,5 +33,5 @@ This project aims to consolidate groundwater datasets from authoritative sources
 
 
 # Tools & Technologies Used
-<img width="200" height="50" alt="image" src="https://github.com/user-attachments/assets/9c1dd294-e0ff-4b37-9445-b12d040a2b0c" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9c1dd294-e0ff-4b37-9445-b12d040a2b0c" />
 
