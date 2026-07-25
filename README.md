@@ -89,4 +89,5 @@ This project clearly shows that groundwater depth in West Bengal varies signific
 This project also highlights that groundwater conditions are not uniform across the state. Western districts such as Purulia, Bankura, Birbhum, and West Medinipur appear more vulnerable, while districts in the eastern and coastal regions generally show relatively lower depth values. This pattern suggests that groundwater stress is influenced by both location and seasonal rainfall variation.
 
 # 🧑‍💻 Author
-Created By - RAHUL GOSWAMI Email - igoswamirahul07@gmail.com
+Created By - RAHUL GOSWAMI *
+Email - igoswamirahul07@gmail.com
