@@ -1,8 +1,4 @@
-# Groundwater Resource Analysis and Influencing Factors in West Bengal 
-# ⚙️ Tech Stack - MySQL | Tableau | Microsoft Excel
-
-# 📋 Project Overview
-This Project is a part of my Data analytics portfolio.The goal of this project was to Develop an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using data from authoritative sources. Consolidated and preprocessed multiple datasets into a unified MySQL database, performed SQL-based trend and seasonal analysis, and applied data transformation techniques to improve data quality and generate actionable insights through interactive reporting.
+# Project Title - Groundwater Resource Analysis and Influencing Factors in West Bengal 
 
 
 <img width="1912" height="1041" alt="Screenshot 2026-07-23 204740" src="https://github.com/user-attachments/assets/030b34f4-4f19-4665-8254-ca2696c4b101" />
@@ -12,6 +8,8 @@ This Project is a part of my Data analytics portfolio.The goal of this project w
 # 📈 Live Dashboard Link
 * https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+# 📋 Project Overview
+This Project is a part of my Data analytics portfolio.The goal of this project was to Develop an end-to-end data analytics project to analyze groundwater level trends across districts of West Bengal using data from authoritative sources. Consolidated and preprocessed multiple datasets into a unified MySQL database, performed SQL-based trend and seasonal analysis, and applied data transformation techniques to improve data quality and generate actionable insights through interactive reporting.
 
 # 🔍 Problem Statement
 Groundwater data for West Bengal is scattered across multiple sources, making it challenging to analyze long-term trends and regional variations. This project integrates environmental datasets into a centralized database and analyzes seasonal and district-wise groundwater levels to generate actionable insights through SQL queries and interactive Tableau dashboards, enabling data-driven water resource management.
