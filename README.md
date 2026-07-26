@@ -29,7 +29,7 @@ This project aims to consolidate groundwater datasets from authoritative sources
 1. Build an end-to-end data analytics pipeline for groundwater level analysis in West Bengal.
 2. Collect, integrate, and preprocess environmental and hydrological datasets from multiple authoritative sources.
 3. Analyze seasonal, district-wise, and long-term groundwater trends using MySQL.
-4. Developed an interactive Tableau dashboard to visualize key groundwater metrics and insights.
+4. Developed two pages interactive Tableau dashboard to visualize key groundwater metrics and insights.
 5. Enable data-driven decision-making for sustainable groundwater resource management through meaningful analytics and reporting
 
 # 📁 Dataset
@@ -53,7 +53,7 @@ This project aims to consolidate groundwater datasets from authoritative sources
 
 * Ranked districts based on MeanDepth.
 
-* Designed an interactive dashboard for visual comparison.
+* Designed interactive dashboard for visual comparison.
 
 
 # 📊 Visualization & Dashboard Features: Detailed Overview
