@@ -1,4 +1,4 @@
-# * Project Title - Groundwater Resource Analysis and Influencing Factors in West Bengal 
+# Project Title - Groundwater Resource Analysis and Influencing Factors in West Bengal 
 
 
 <img width="1912" height="1041" alt="Screenshot 2026-07-23 204740" src="https://github.com/user-attachments/assets/030b34f4-4f19-4665-8254-ca2696c4b101" />
