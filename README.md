@@ -1,9 +1,11 @@
 # Project Title - Groundwater Resource Analysis and Influencing Factors in West Bengal 
 
 
-<img width="1912" height="1041" alt="Screenshot 2026-07-23 204740" src="https://github.com/user-attachments/assets/030b34f4-4f19-4665-8254-ca2696c4b101" />
+<img width="1913" height="903" alt="Screenshot 2026-07-30 221410" src="https://github.com/user-attachments/assets/7dd33ed7-6638-42a4-ba41-3b3fca9ba5c2" />
 
-<img width="1907" height="1015" alt="Screenshot 2026-07-23 205057" src="https://github.com/user-attachments/assets/bdc78e75-085d-460d-b2a1-4a5e20e393f5" />
+
+<img width="1911" height="905" alt="Screenshot 2026-07-30 221634" src="https://github.com/user-attachments/assets/d4e8467f-79be-4f3c-bced-5a5c0d9f6e1f" />
+
 
 # 📈 Live Dashboard Link
 * https://public.tableau.com/views/WB_GWL_Analysis/WB_GWL_OVERVIEW?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
