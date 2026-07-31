@@ -1,10 +1,9 @@
 # Project Title - Groundwater Resource Analysis and Influencing Factors in West Bengal 
 
 
-<img width="1913" height="903" alt="Screenshot 2026-07-30 221410" src="https://github.com/user-attachments/assets/7dd33ed7-6638-42a4-ba41-3b3fca9ba5c2" />
+<img width="1907" height="902" alt="Screenshot 2026-07-31 195028" src="https://github.com/user-attachments/assets/7b0c7e32-cefb-4d1c-b0fa-3258125f603b" />
 
-
-<img width="1911" height="905" alt="Screenshot 2026-07-30 221634" src="https://github.com/user-attachments/assets/d4e8467f-79be-4f3c-bced-5a5c0d9f6e1f" />
+<img width="1913" height="897" alt="Screenshot 2026-07-31 195056" src="https://github.com/user-attachments/assets/06f887d6-d39e-4d58-a886-bd24dd7103bc" />
 
 
 # 📈 Live Dashboard Link
